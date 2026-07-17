@@ -40,6 +40,11 @@ Planned features:
 * Delete repair records
 * Cost management
 * Improved Persian UI support
+<img width="1001" height="624" alt="image" src="https://github.com/user-attachments/assets/412a9f1f-3662-4504-88ef-db7ea9bcf8df" />
+<img width="1001" height="627" alt="image" src="https://github.com/user-attachments/assets/be442dd6-6d7b-4295-908d-83e9c1a97099" />
+<img width="998" height="628" alt="image" src="https://github.com/user-attachments/assets/049dfe15-db47-4793-ab18-dd1d0301fcb3" />
+
+
 
 ## Installation
 
