@@ -1,0 +1,42 @@
+[
+    {
+        "id": 400290,
+        "customer_name": "احمدی نیا",
+        "phone": "09121111111",
+        "device_type": "خوردکن",
+        "brand": "LG",
+        "problem": "کندی تیغه",
+        "deposit": 250000,
+        "status": "تحویل داده شد"
+    },
+    {
+        "id": 400291,
+        "customer_name": "يوسفي",
+        "phone": "09127498690",
+        "device_type": "سشوار مشکي",
+        "brand": "فيليپس",
+        "problem": "قطع سيم",
+        "deposit": 500000,
+        "status": "در حال تعمیر"
+    },
+    {
+        "id": 400292,
+        "customer_name": "صادقي",
+        "phone": "09123333333",
+        "device_type": "بخارشور مشکي",
+        "brand": "LG",
+        "problem": "سوختگي",
+        "deposit": 800000,
+        "status": "تعمیر انتظار در"
+    },
+    {
+        "id": 400293,
+        "customer_name": "سبحانی",
+        "phone": "09122222222",
+        "device_type": "گوشتکوب برقی",
+        "brand": "LG",
+        "problem": "شکستگی جزئی در پایه دستگاه",
+        "deposit": 100000,
+        "status": "در حال تعمیر"
+    }
+]
